@@ -5,9 +5,13 @@ A simple Java-based command-line application to manage your to-do list effective
 **FEATURES**
 
 Add Task: Add new tasks to your live task list.
+
 Update Task: Modify an existing task while archiving the original in completed tasks.
+
 View Live Tasks: List all active tasks.
+
 View Completed Tasks: Review tasks that have been completed or replaced.
+
 Exit: Safely close the application.
 
 **HOW TO USE**
