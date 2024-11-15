@@ -1,4 +1,4 @@
-**#ToDo LIST MANAGER**
+**ToDo LIST MANAGER**
 
 **OVERVIEW**
 A simple Java command-line program to help you organize tasks effectively. The application separates tasks into Live Tasks (ongoing) and Completed Tasks (archived), providing a user-friendly way to manage to-dos.
