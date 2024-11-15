@@ -43,8 +43,7 @@ Exit Mechanism: Cleanly exits the application loop.
 
 **Example Menu**
 Welcome to the To-Do List Application!  
-
-**Choose an option: ** 
+Choose an option: 
 1. Add Task  
 2. Update Task  
 3. Display Live Tasks  
